@@ -50,7 +50,7 @@ Then you can use the **num2word** method to convert a number to word, as shown b
 Bugs
 -----------
 
-Please ensure that you have updated pip to the latest version before installing word2number.
+Please ensure that you have updated pip to the latest version before installing numbertoword.
      
 If you find any bugs/errors in the usage of above code, please raise an issue through 'https://github.com/netrixa/numbertoword'
 or send an email to fems.david@hotmail.com with a clear example that can reproduce the issue.
