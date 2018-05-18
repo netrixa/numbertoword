@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+numbertoword/__init__.py
+numbertoword/w2n.py
+numbertoword.egg-info/PKG-INFO
+numbertoword.egg-info/SOURCES.txt
+numbertoword.egg-info/dependency_links.txt
+numbertoword.egg-info/top_level.txt
